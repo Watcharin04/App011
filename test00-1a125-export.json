@@ -1,0 +1,189 @@
+{
+  "cart" : {
+    "1JkKHA3fWTSR5QqK4a5L9c4M1V93" : {
+      "item5" : {
+        "image" : "https://images-na.ssl-images-amazon.com/images/I/91fxw8UaWPL._SL1500_.jpg",
+        "name" : "Agro Fresh Premium Sooji Rawa, 500g",
+        "price" : 2000,
+        "quantity" : 3
+      }
+    },
+    "KB9qN0h8mASb9aIfxRWetGmWb5X2" : {
+      "item1" : {
+        "image" : "https://firebasestorage.googleapis.com/v0/b/test00-1a125.appspot.com/o/icon.png?alt=media&token=41a09612-5cf1-4cff-b401-d18333dfdc85",
+        "name" : "Tata Salt, 1kg",
+        "price" : 15,
+        "quantity" : 7
+      },
+      "item3" : {
+        "image" : "https://images-na.ssl-images-amazon.com/images/I/61tIX-YbEvL._SL1000_.jpg",
+        "name" : "Dettol Original Soap,BUY 3 GET 1 FREE Dettol Original Soap, 125g",
+        "price" : 132,
+        "quantity" : 2
+      }
+    },
+    "f3dAxH4Re5f12mrVhybUQDuHRvm1" : {
+      "item5" : {
+        "image" : "https://images-na.ssl-images-amazon.com/images/I/91fxw8UaWPL._SL1500_.jpg",
+        "name" : "Agro Fresh Premium Sooji Rawa, 500g",
+        "price" : 2000,
+        "quantity" : 1
+      }
+    }
+  },
+  "category" : {
+    "cat001" : "Grocery",
+    "cat002" : "Skincare"
+  },
+  "customer" : {
+    "1JkKHA3fWTSR5QqK4a5L9c4M1V93" : {
+      "address" : {
+        "-LEQ6EK2QTE_3mPopTsO" : {
+          "address" : "sas",
+          "nickname" : "aa",
+          "phone" : "1212121",
+          "pincode" : "1111"
+        }
+      }
+    },
+    "7FzLdTxRD9S1b8gKG0N8VZQeBtv2" : {
+      "address" : {
+        "-LEQTO2rWBvf1Gq1eCvO" : {
+          "address" : "46/139",
+          "nickname" : "Rin",
+          "phone" : "0612199999",
+          "pincode" : "12120"
+        }
+      }
+    },
+    "f3dAxH4Re5f12mrVhybUQDuHRvm1" : {
+      "address" : {
+        "-LEQ2xSIqs62vIMqh57h" : {
+          "address" : "qqs",
+          "nickname" : "q",
+          "phone" : "888888888",
+          "pincode" : "12345"
+        }
+      }
+    }
+  },
+  "orders" : {
+    "1JkKHA3fWTSR5QqK4a5L9c4M1V93" : {
+      "-LEQ6ElkffLNKAyJ9PHS" : {
+        "delivery" : "sas Pin: 1111 Phone : 1212121",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/test00-1a125.appspot.com/o/icon.png?alt=media&token=41a09612-5cf1-4cff-b401-d18333dfdc85",
+        "name" : "Tata Salt, 1kg",
+        "price" : 150,
+        "quantity" : 1,
+        "status" : 1
+      },
+      "-LEQArO-Y2Mcnhkk2sja" : {
+        "delivery" : "sas Pin: 1111 Phone : 1212121",
+        "image" : "https://images-na.ssl-images-amazon.com/images/I/91fxw8UaWPL._SL1500_.jpg",
+        "name" : "Agro Fresh Premium Sooji Rawa, 500g",
+        "price" : 20,
+        "quantity" : 1,
+        "status" : 1
+      },
+      "-LEQNIFtzPzL_QS1kVpa" : {
+        "delivery" : "sas Pin: 1111 Phone : 1212121",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/test00-1a125.appspot.com/o/icon.png?alt=media&token=41a09612-5cf1-4cff-b401-d18333dfdc85",
+        "name" : "Tata Salt, 1kg",
+        "price" : 150,
+        "quantity" : 8,
+        "status" : 1
+      }
+    },
+    "7FzLdTxRD9S1b8gKG0N8VZQeBtv2" : {
+      "-LEQTOctTitIPhPhPJOT" : {
+        "delivery" : "46/139 Pin: 12120 Phone : 0612199999",
+        "image" : "https://images-na.ssl-images-amazon.com/images/I/91fxw8UaWPL._SL1500_.jpg",
+        "name" : "Agro Fresh Premium Sooji Rawa, 500g",
+        "price" : 2000,
+        "quantity" : 3,
+        "status" : 1
+      }
+    },
+    "f3dAxH4Re5f12mrVhybUQDuHRvm1" : {
+      "-LEQ2xzX5TM-ekxodWie" : {
+        "delivery" : "qqs Pin: 12345 Phone : 888888888",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/test00-1a125.appspot.com/o/icon.png?alt=media&token=41a09612-5cf1-4cff-b401-d18333dfdc85",
+        "name" : "Tata Salt, 1kg",
+        "price" : 15,
+        "quantity" : 1,
+        "status" : 3
+      },
+      "-LEQ2xzZakQlMcYv8Qxs" : {
+        "delivery" : "qqs Pin: 12345 Phone : 888888888",
+        "image" : "https://images-na.ssl-images-amazon.com/images/I/91fxw8UaWPL._SL1500_.jpg",
+        "name" : "Agro Fresh Premium Sooji Rawa, 500g",
+        "price" : 20,
+        "quantity" : 1,
+        "status" : 1
+      },
+      "-LEQ2xz_bzHeR5vkcuFb" : {
+        "delivery" : "qqs Pin: 12345 Phone : 888888888",
+        "image" : "https://images-na.ssl-images-amazon.com/images/I/61tIX-YbEvL._SL1000_.jpg",
+        "name" : "Dettol Original Soap,BUY 3 GET 1 FREE Dettol Original Soap, 125g",
+        "price" : 132,
+        "quantity" : 2,
+        "status" : 2
+      },
+      "-LEQ35Je4Plpl7rft8C4" : {
+        "delivery" : "qqs Pin: 12345 Phone : 888888888",
+        "image" : "https://images-na.ssl-images-amazon.com/images/I/91fxw8UaWPL._SL1500_.jpg",
+        "name" : "Agro Fresh Premium Sooji Rawa, 500g",
+        "price" : 20,
+        "quantity" : 5,
+        "status" : 3
+      }
+    }
+  },
+  "products" : {
+    "item1" : {
+      "available" : true,
+      "category" : "cat001",
+      "description" : "The pioneer of salt iodisation in India, Tata Salt, holds the distinction of being India's first national branded iodised salt. It has been consistently recognised as one of the country's leading food brands.",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/test00-1a125.appspot.com/o/icon.png?alt=media&token=41a09612-5cf1-4cff-b401-d18333dfdc85",
+      "name" : "Tata Salt, 1kg",
+      "price" : 150,
+      "stock" : 79
+    },
+    "item2" : {
+      "available" : true,
+      "category" : "cat001",
+      "description" : "Agro Fresh believes that our reputation must be based on the quality of our products. We have travelled across the country to handpick the finest quality products at the best possible rates. ",
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/91fxw8UaWPL._SL1500_.jpg",
+      "name" : "Agro Fresh Premium Sooji Rawa, 500g",
+      "price" : 20,
+      "stock" : 92
+    },
+    "item3" : {
+      "available" : true,
+      "category" : "cat002",
+      "description" : "Dettol Original Soap that comes with classic Dettol aroma affords you with Dettol’s trusted germ protection from a wide array of unseen germs. It efficiently cleanses and protects your skin, helping you stay healthy every day.",
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/61tIX-YbEvL._SL1000_.jpg",
+      "name" : "Dettol Original Soap,BUY 3 GET 1 FREE Dettol Original Soap, 125g",
+      "price" : 132,
+      "stock" : 0
+    },
+    "item4" : {
+      "available" : true,
+      "category" : "cat002",
+      "description" : "Dettol Original Soap that comes with classic Dettol aroma affords you with Dettol’s trusted germ protection from a wide array of unseen germs. It efficiently cleanses and protects your skin, helping you stay healthy every day.",
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/61tIX-YbEvL._SL1000_.jpg",
+      "name" : "Dettol Original 125g",
+      "price" : 20,
+      "stock" : 0
+    },
+    "item5" : {
+      "available" : true,
+      "category" : "cat001",
+      "description" : "Agro Fresh believes that our reputation must be based on the quality of our products. We have travelled across the country to handpick the finest quality products at the best possible rates. ",
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/91fxw8UaWPL._SL1500_.jpg",
+      "name" : "Agro Fresh Premium Sooji Rawa, 500g",
+      "price" : 2000,
+      "stock" : 188
+    }
+  }
+}
